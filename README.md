@@ -8,7 +8,7 @@ Solution to the [Testimonials grid section](https://www.frontendmentor.io/challe
 Solution: [Github Page](https://mtc-21.github.io/Testimonials-grid-section/)
 
 # Description
-created with html, js css, using flexbox and grid for the layout of the website 
+created with html, css, using grid for the layout of the website 
 
 # Author
 - Codepen - [Mtc_21](https://codepen.io/Mtc_21/)
